@@ -8,7 +8,7 @@ Esta é uma aplicação Back end construída durante o curso de Java Completo da
 A aplicação é uma API de CRUD com todas as camadas lógicas: resource, service e repository, desenvolvida com Java e Spring Boot 3, utilizando JPA e Hibernate
 
 ## Modelo de domínio
-![imagem](https://imgur.com/9AT8NEy)
+![imagem](https://github.com/luccasocastro/workshop-springboot3-jpa/blob/main/modeloDeDominio.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -26,10 +26,7 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
+git clone https://github.com/luccasocastro/workshop-springboot3-jpa.git
 
 # executar o projeto
 ./mvnw spring-boot:run
