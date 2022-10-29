@@ -19,6 +19,7 @@ A aplicação é uma API de CRUD com todas as camadas lógicas: resource, servic
 ## Ferramentas adicionais
 - Banco de Dados de teste H2
 - Postman para teste de rotas
+- Spring Tool Suite 4 IDE
 
 # Como executar o projeto
 
